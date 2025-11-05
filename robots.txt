@@ -1,0 +1,3 @@
+Sitemap: https://www.onthewayhotels.com/sitemap.xml
+User-agent: *
+Disallow:
